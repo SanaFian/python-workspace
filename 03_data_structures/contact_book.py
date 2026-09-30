@@ -3,8 +3,6 @@
 # ============================================
 
 
-# The database: A list containing dictionaries
-# Structure: [{"name": "...", "phone": "...", "email": "..."}]
 contacts = []
 
 
