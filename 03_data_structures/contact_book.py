@@ -1,5 +1,5 @@
 # ============================================
-# Project 03: Smart Contact Book
+# Project 03 : Smart Contact Book
 # ============================================
 
 contacts = []
