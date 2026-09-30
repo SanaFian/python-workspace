@@ -39,11 +39,3 @@ Each module represents a milestone containing practical exercises, deep dives in
 - **Development Environment:** VS Code
 - **Version Control:** Git & GitHub
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have Python 3 installed:
-```bash
-python --version
