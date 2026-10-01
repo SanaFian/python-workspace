@@ -1,7 +1,6 @@
-"""
-Project 04: Task Manager & Activity Logger
-Concepts: Functions, File I/O (Read/Write), Exception Handling, List Manipulation
-"""
+# ============================================
+# Project 04: Task Manager & Activity Logger
+# ============================================
 
 import os
 
