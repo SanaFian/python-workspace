@@ -26,8 +26,8 @@ Each module represents a milestone containing practical exercises, deep dives in
 | **`01_basics`** | Core Syntax & Flow | Number Guessing Game | Dynamic typing, input casting, `while` loops, exception handling | ✅ Done |
 | **`02_strings_and_text`** | String Manipulation | Text Analyzer Tool | String slicing (`[::-1]`), immutability, built-in string methods | ✅ Done |
 | **`03_control_flow`** | Logic & Branching | Rule-based Evaluator | Match-case, nested loops, list comprehensions | ✅ Done |
-| **`04_data_structures`** | Collections | Inventory Manager | Lists, Tuples, Dictionaries, Sets, memory complexity | 🔄 In Progress |
-| **`05_functions`** | Functional Principles | Math Utility Toolkit | `*args`, `**kwargs`, lambdas, scope (`LEGB`), docstrings | ⏳ Upcoming |
+| **`04_data_structures`** | Collections | Inventory Manager | Lists, Tuples, Dictionaries, Sets, memory complexity | ✅ Done |
+| **`05_functions`** | Functional Principles | Math Utility Toolkit | `*args`, `**kwargs`, lambdas, scope (`LEGB`), docstrings | 🔄 In Progress |
 | **`06_file_io`** | File Handling & Data | Log File Parser | Context managers (`with`), file buffers, JSON/CSV parsing | ⏳ Upcoming |
 | **`07_oop`** | Object-Oriented Design | Banking/Core System | Classes, inheritance, magic methods (`__str__`, `__repr__`), encapsulation | ⏳ Upcoming |
 | **`08_modules`** | Packaging & Standard Lib | CLI Assistant | Virtual environments, custom modules, `sys`, `pathlib` | ⏳ Upcoming |
